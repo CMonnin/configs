@@ -8,5 +8,8 @@ The file contains configurations for the following clusters: Fir, Narval, Nibi, 
 For detailed information on running nf-core pipelines on Alliance clusters, please visit the documentation:
 https://docs.alliancecan.ca/wiki/Nextflow
 
+For problems with the config please raise an issue on the nf-core configs at tag @CMonnin
+https://github.com/nf-core/configs/issues
+
 If you run into issues, please contact Alliance Support:
 https://docs.alliancecan.ca/wiki/Technical_support
